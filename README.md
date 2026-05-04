@@ -3,7 +3,7 @@
 ### 🎬 3D Animation Project | AI-Powered Creative Storytelling
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400.png?text=Beyond+the+Cable" />
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEimmMgLNmVtDaD1GFaPi2Pxt6Uc_1DS5hK2hPM2XQWiblalj1B5pRBIrFyvOCcpNaaMgKrevFq46wQlp9nMG0UJZtClSg00WtWfGjTWJ588B-hqtBEybkbQkd4BmduvB2hdAmQRHCa62_yIRl0HXGQoLR6dulIir47v_P_u1Wkt_hkOGZe0abVQkstagPgl">
 </p>
 
 <p align="center">
